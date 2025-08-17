@@ -1,4 +1,4 @@
 export const baseUrls = {
-  prodUrl: `http://localhost:3000`,
+  prodUrl: `https://shoppers-town.netlify.app`,
   devUrl: `http://localhost:3000`,
 };
